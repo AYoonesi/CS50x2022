@@ -2,8 +2,8 @@
 HarvardX CS50x: CS50's Introduction to Computer Science
 
 ## Progress
-+ [ ] Week 0
-+ [ ] Week 1
++ [X] Week 0 (Aug30)
++ [ ] Week 1 (Sep03)
 + [ ] Week 2
 + [ ] Week 3
 + [ ] Week 4
